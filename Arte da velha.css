@@ -1,0 +1,53 @@
+
+
+
+body{
+    font-family:sans-serif;
+}
+
+
+h2{
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+.container{
+    margin: 0 auto;
+    max-width: 240px;
+    border-radius: 10px;
+    background-color:dimgrey;
+    margin-top: 15%;
+    
+    
+
+    
+}
+
+
+.grid{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    margin-top: 10%;
+    border-radius: 3px solid black;
+    
+    
+}
+
+.celula{
+    width: 75px;
+    height: 65px;
+    font-size: 30pt;
+    margin: 4px 2px;
+    border-radius: 3px;
+    text-align: center;
+    background-color: blue;
+    padding-top: 10px;
+}
+
+
+
+
+
+
